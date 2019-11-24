@@ -61,6 +61,7 @@ const Project = () => (
       <h3>Tech Stack:</h3>
       <ul>
         <li>React-Hook</li>
+        <li>AWS - Amplify</li>
         <li>AWS - Cognito</li>
         <li>AWS - API Gateway</li>
         <li>AWS - Lambda</li>
