@@ -3,10 +3,7 @@ import PropTypes from 'prop-types'
 
 const Footer = props => (
   <footer id="footer" style={props.timeout ? { display: 'none' } : {}}>
-    <p className="copyright">
-      &copy; ANCHEN HUANG - 2019:
-      <a href="https://www.gatsbyjs.org/"> Gatsby.js</a>
-    </p>
+    <p className="copyright">&copy; ANCHEN HUANG - 2019</p>
   </footer>
 )
 
