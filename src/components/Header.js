@@ -61,11 +61,11 @@ const Header = props => (
             Work
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href="https://www.canva.com/design/DADsJQ3xQQ0/pgDicRhE88KbuITGLqk26w/view?utm_content=DADsJQ3xQQ0&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
             Resume
           </a>
-        </li>
+        </li> */}
         <li>
           <a href="mailto:acmhuang@gmail.com">Contact</a>
         </li>
